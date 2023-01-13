@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/bookshelf/static/js/main.82db1826.js",
+    "static/media/shelfBackground.jpg": "/bookshelf/static/media/shelfBackground.eda48127e33aff8a2940.jpg",
+    "static/media/shelf.png": "/bookshelf/static/media/shelf.364033a477c39427697b.png",
+    "static/media/book3.png": "/bookshelf/static/media/book3.b8f1d291c432b1f83f1e.png",
+    "static/media/book1.png": "/bookshelf/static/media/book1.667d85333c64f2f60be5.png",
+    "static/media/book2.png": "/bookshelf/static/media/book2.da4dfdf7e83f464b417a.png",
+    "index.html": "/bookshelf/index.html",
+    "main.82db1826.js.map": "/bookshelf/static/js/main.82db1826.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.82db1826.js"
+  ]
+}
